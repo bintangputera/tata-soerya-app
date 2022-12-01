@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Tata Soerya</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_explore">Explore</string>
+    <string name="menu_profile">Profile</string>
+    <string name="logo">logo</string>
+    <string name="label_solar_system">Solar System</string>
+    <string name="label_explore_our">Explore our\n</string>
+</resources>
